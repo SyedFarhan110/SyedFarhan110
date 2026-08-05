@@ -1,183 +1,215 @@
 <h1 align="center">Hi 👋, I'm Farhan Ali Raza</h1>
-<h3 align="center">Associate AI Engineer | Flutter Developer | Computer Vision & Edge AI Enthusiast</h3>
+
+<h3 align="center">
+Associate AI Engineer • Computer Vision • Edge AI • Flutter • FastAPI
+</h3>
 
 <p align="center">
-Building intelligent mobile applications by combining <strong>AI, Computer Vision, IoT, and Flutter</strong>.
+Building intelligent systems that combine <b>Artificial Intelligence</b>,
+<b>Computer Vision</b>,
+<b>Mobile Development</b>,
+and <b>Edge Computing</b>.
+</p>
+
+<p align="center">
+<a href="https://github.com/SyedFarhan110">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Associate+AI+Engineer;Computer+Vision+Engineer;Flutter+Developer;FastAPI+Backend+Developer;Building+Production+Ready+AI+Applications;Always+Learning+New+Technologies" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently working as an **Associate AI Engineer @ QBS Co.**
-- 🤖 Building **AI-powered mobile applications**, Computer Vision solutions, and Edge AI systems
-- 📱 Passionate about developing production-ready Flutter applications integrated with AI models
-- 🌱 Currently learning **Advanced Computer Vision, LLMs, Edge AI Deployment, FastAPI, and AI System Design**
-- 💡 Interested in **Computer Vision, Deep Learning, IoT, Mobile AI, Robotics, and Intelligent Systems**
-- 👯 Open to collaborating on **AI, Flutter, Computer Vision, and Open Source projects**
-- 🎯 Goal: Build scalable AI products that solve real-world problems
-
----
-
-## 💼 Current Focus
-
-- 🔥 Edge AI Applications
-- 📷 Computer Vision using YOLO & OpenCV
-- ⚡ FastAPI Backend Development
-- 📱 Flutter + AI Integration
-- 🚢 Real-time AI Monitoring Systems
-- 🤖 AI-powered Mobile Applications
+- 💼 Associate AI Engineer @ **QBS Co.**
+- 🤖 Working on production AI applications powered by Computer Vision
+- 📱 Building Flutter applications integrated with AI models
+- ⚡ Developing scalable FastAPI backends
+- 🛰️ Passionate about Edge AI and IoT
+- 🎯 Interested in solving real-world problems using AI
 
 ---
 
-## 🚀 Featured Projects
+# 🔭 Currently Working On
 
-### 🔥 FireVision
-AI-powered Fire Detection & Monitoring System
-
-- YOLO
-- FastAPI
-- Flutter
-- Real-time RTSP Streaming
-- Fire Behaviour Analytics
-- Multi-camera Monitoring
-
-🔗 https://github.com/SyedFarhan110
+- 🤖 AI Powered Mobile Applications
+- 🔥 FireVision
+- 🚢 Verseye AI Platform
+- ⚡ Edge AI Deployment
+- 📷 Computer Vision Systems
 
 ---
 
-### ⚡ Grid Guard
+# 🌱 Currently Learning
 
-AI-based Power Distribution Fault Prediction System
-
-- FastAPI
-- XGBoost
-- LightGBM
-- Flutter
-- Next.js
-- Firestore
-
-🔗 https://github.com/SyedFarhan110
+- Large Language Models (LLMs)
+- Advanced Computer Vision
+- AI System Design
+- ONNX Runtime
+- TensorRT
+- Kubernetes for AI
 
 ---
 
-### 📦 Verseye Mobile
-
-Enterprise Flutter application integrating AI inference with Edge Devices.
-
-- Flutter
-- Firebase
-- MQTT
-- Jetson Nano
-- REST APIs
-- Computer Vision
-
----
-
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-`Python` `Dart` `C++` `SQL` `Kotlin`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+### AI / Machine Learning
+
+![YOLO](https://img.shields.io/badge/YOLO-FF4088?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+
+---
 
 ### Mobile
 
-`Flutter`
-`Firebase`
-`BLoC`
-`CameraX`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 
-### AI / ML
-
-`YOLO`
-`TensorFlow`
-`PyTorch`
-`OpenCV`
-`Scikit-Learn`
-`Transformers`
+---
 
 ### Backend
 
-`FastAPI`
-`REST APIs`
-`Server-Sent Events`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+
+---
 
 ### Databases
 
-`Firestore`
-`Firebase`
-`MySQL`
-
-### DevOps & Tools
-
-`Git`
-`GitHub`
-`Android Studio`
-`VS Code`
-`Linux`
-
-### IoT & Edge AI
-
-`MQTT`
-`ESP32`
-`Jetson Nano`
-`BLE`
-`TensorFlow Lite`
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-## 🌱 Currently Learning
+### Edge AI
 
-- Large Language Models (LLMs)
-- AI System Design
-- Advanced Computer Vision
-- ONNX Runtime
-- Edge AI Optimization
-- Production AI Deployment
+![Jetson](https://img.shields.io/badge/NVIDIA-Jetson-76B900?style=for-the-badge&logo=nvidia)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
 ---
 
-## 📫 Connect with Me
+# 🚀 Featured Projects
 
-📧 **Email:** faliraza.neduet@gmail.com
+## 🔥 FireVision
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/farhan-raza1/
+AI-powered fire detection and monitoring system.
 
-🌐 **Portfolio:**  
-https://syedfarhan110.github.io/Portfolio/
+**Tech Stack**
 
-🐙 **GitHub:**  
-https://github.com/SyedFarhan110
+YOLO • FastAPI • Flutter • RTSP • OpenCV • SSE
 
----
+✔ Multi-camera monitoring
 
-## 📊 GitHub Stats
+✔ Fire behaviour analysis
 
-<!-- Replace USERNAME with your username -->
+✔ Live streaming
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedFarhan110&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedFarhan110&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SyedFarhan110&theme=tokyonight)
+✔ Hazard prediction
 
 ---
 
-## 🏆 Achievements
+## ⚡ Grid Guard
 
-🏅 Associate AI Engineer @ QBS Co.
+AI-powered power grid monitoring platform.
+
+**Tech Stack**
+
+FastAPI • XGBoost • LightGBM • Flutter • Next.js
+
+✔ Fault prediction
+
+✔ Live dashboard
+
+✔ Interactive Maps
+
+✔ AI Analytics
+
+---
+
+## 🚢 Verseye
+
+Enterprise AI-powered monitoring application.
+
+**Tech Stack**
+
+Flutter • MQTT • Firebase • Jetson Nano
+
+✔ Edge AI
+
+✔ Live Inference
+
+✔ Navigation Dashboard
+
+✔ Real-time Monitoring
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedFarhan110&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedFarhan110&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Associate AI Engineer @ QBS Co.
 
 🎓 BS Computer Science (Artificial Intelligence)
-NED University of Engineering & Technology
 
-🎖 Full-Ride Merit Scholarship (Al Kusar Scholarship)
+🏅 Full-Ride Merit Scholarship
 
-🥉 KODERZ COMBAT 2025
-Advanced to Round 2 • Secured 3rd Position
+🥉 KODERZ COMBAT 2025 (Round 2 • 3rd Position)
 
 ---
 
-## 💬 Quote
+# 📫 Connect With Me
 
-> *"Building intelligent systems that bridge AI research with real-world applications."*
+<p align="center">
+
+<a href="mailto:faliraza.neduet@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/farhan-raza1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://syedfarhan110.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+</a>
+
+<a href="https://github.com/SyedFarhan110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ Thanks for visiting my profile!
+
+Let's build intelligent systems together.
+
+</p>
